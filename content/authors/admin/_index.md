@@ -16,7 +16,7 @@ social:
     link: "#contact"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/simplysimple
+    link: https://twitter.com/simblysimple
   - icon: github
     icon_pack: fab
     link: https://github.com/subhashkp
